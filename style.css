@@ -1,0 +1,54 @@
+body{
+    background: aqua;
+    background: url(https://images.pexels.com/photos/1775862/pexels-photo-1775862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+}
+
+.container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    
+}
+
+img{
+    border-radius: 100%;
+} 
+
+
+h1{
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+
+h5{
+    color: white;
+}
+
+
+p{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    margin: 10px;
+    list-style: none;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    font-size: 45px;
+    transition: all ease-in-out 250ms;
+}
+li a:hover{
+    color: #b9b9b9;
+}
+
